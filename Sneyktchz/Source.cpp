@@ -17,6 +17,8 @@ int main() {
 			{
 				fenetre.close();
 			}
+
+			cout << "lol";
 		}
 
 	
